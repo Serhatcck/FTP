@@ -1,0 +1,10 @@
+C:\Users\serha\source\repos\FTP_END\FTP_END\bin\Debug\FTP_END.exe.config
+C:\Users\serha\source\repos\FTP_END\FTP_END\bin\Debug\FTP_END.exe
+C:\Users\serha\source\repos\FTP_END\FTP_END\bin\Debug\FTP_END.pdb
+C:\Users\serha\source\repos\FTP_END\FTP_END\obj\Debug\FTP_END.Form1.resources
+C:\Users\serha\source\repos\FTP_END\FTP_END\obj\Debug\FTP_END.Form2.resources
+C:\Users\serha\source\repos\FTP_END\FTP_END\obj\Debug\FTP_END.Properties.Resources.resources
+C:\Users\serha\source\repos\FTP_END\FTP_END\obj\Debug\FTP_END.csproj.GenerateResource.cache
+C:\Users\serha\source\repos\FTP_END\FTP_END\obj\Debug\FTP_END.exe
+C:\Users\serha\source\repos\FTP_END\FTP_END\obj\Debug\FTP_END.pdb
+C:\Users\serha\source\repos\FTP_END\FTP_END\obj\Debug\FTP_END.csprojAssemblyReference.cache
